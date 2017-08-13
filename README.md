@@ -1,4 +1,4 @@
-﻿HIer steht Readme-Zeug.
+HIer steht Readme-Zeug.
 
 Noch mehr Zeug...
 
@@ -9,3 +9,5 @@ Noch mehr.
 Noch was.
 
 Konflikt?
+
+Das ist der ultimative Test, ob beide Varianten funktionieren: Neues File erstellen und bestehendes verändern.
